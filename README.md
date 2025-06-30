@@ -4,9 +4,7 @@
 
 A lo largo de mi carrera, he ido adquiriendo conocimientos sólidos en estadística, programación, minería de datos, procesamiento de lenguaje natural y visión por computadora, entre otras áreas. Además, he trabajado en proyectos prácticos que me han permitido aplicar teorías y métodos a casos reales, desde la predicción y clasificación hasta la optimización y automatización de procesos.
 
-Este repositorio recoge algunos de los proyectos y trabajos que he realizado durante mi formación, incluyendo código, análisis, documentación y resultados. Mi objetivo es seguir aprendiendo y compartiendo mis avances en esta apasionante disciplina, contribuyendo a la comunidad y desarrollando soluciones innovadoras basadas en datos.
-
-¡Gracias por visitar mi repositorio y no dudes en contactarme si quieres colaborar o tienes alguna pregunta!
+Este repositorio recoge algunos de los proyectos y trabajos que he realizado durante mi formación, incluyendo código, análisis, documentación y resultados. Mi objetivo es seguir aprendiendo y compartiendo mis avances en esta apasionante disciplina, contribuyendo a la comunidad.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShengkaiZhu) 
