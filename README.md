@@ -14,6 +14,15 @@ En este perfil recojo proyectos personales y académicos, con código, documenta
 | [sentiment-stock-analytics](https://github.com/ZyroEolu-sk/sentiment-stock-analytics) | FinNews Pulse: análisis de sentimiento de noticias financieras (FinBERT y otros) y predicción bursátil (ARIMA, LSTM, GRU) en un dashboard interactivo | Transformers, LSTM/GRU, Streamlit |
 | [space-invaders-game](https://github.com/ZyroEolu-sk/space-invaders-game) · [web](https://github.com/ZyroEolu-sk/space-invaders-web) | Clon de Space Invaders en Pygame, con port a navegador vía WebAssembly (pygbag) | Pygame, pygbag |
 
+## ⚡ Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🌳 Mi git-bonsai
+Crece con mi historial de commits (se regenera a diario).
+
+<img src="output/bonsai-growth.gif" width="384" alt="git-bonsai de ZyroEolu-sk" />
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shengkai-zhu/)
 
