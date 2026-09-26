@@ -16,6 +16,7 @@ En este perfil recojo proyectos personales y académicos, con código, documenta
 
 ## ⚡ Actividad reciente
 <!--START_SECTION:activity-->
+- 📤 1 commit en [ZyroEolu-sk/ZyroEolu-sk](https://github.com/ZyroEolu-sk/ZyroEolu-sk) · 26 Sep 2026
 <!--END_SECTION:activity-->
 
 ## 🌳 Mi git-bonsai
