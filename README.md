@@ -17,6 +17,8 @@ En este perfil recojo proyectos personales y académicos, con código, documenta
 ## ⚡ Actividad reciente
 <!--START_SECTION:activity-->
 - 📤 1 commit en [ZyroEolu-sk/ZyroEolu-sk](https://github.com/ZyroEolu-sk/ZyroEolu-sk) · 26 Sep 2026
+- 📤 1 commit en [ZyroEolu-sk/Reinforcement-Learning-space-invaders-game](https://github.com/ZyroEolu-sk/Reinforcement-Learning-space-invaders-game) · 26 Sep 2026
+- 📤 1 commit en [ZyroEolu-sk/ZyroEolu-sk](https://github.com/ZyroEolu-sk/ZyroEolu-sk) · 26 Sep 2026
 <!--END_SECTION:activity-->
 
 ## 🌳 Mi git-bonsai
