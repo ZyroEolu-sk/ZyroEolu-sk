@@ -16,7 +16,7 @@ En este perfil recojo proyectos personales y académicos, con código, documenta
 
 ## ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-- Sin actividad pública reciente.
+- 📤 1 commit en [ZyroEolu-sk/filament-segmentation-2026](https://github.com/ZyroEolu-sk/filament-segmentation-2026) · 16 Nov 2026
 <!--END_SECTION:activity-->
 
 ## 🌳 Mi git-bonsai
